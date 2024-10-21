@@ -4,7 +4,7 @@
 # compile CXX with /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
 CXX_DEFINES = -DSFML_STATIC
 
-CXX_INCLUDES = -isystem /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/include
+CXX_INCLUDES = -I/Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/include -isystem /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/include
 
 CXX_FLAGSarm64 = -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -F/Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/extlibs/libs-osx/Frameworks 
 

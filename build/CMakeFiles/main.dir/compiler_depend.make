@@ -953,8 +953,12 @@ CMakeFiles/main.dir/src/main.cpp.o: /Users/tristanmeyers/Desktop/Projects/cpp/so
   _deps/sfml-src/include/SFML/Window/Window.hpp \
   _deps/sfml-src/include/SFML/Window/WindowBase.hpp \
   _deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
-  _deps/sfml-src/include/SFML/Window/WindowStyle.hpp
+  _deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
+  /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/include/bar.h \
+  /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/include/generate.h
 
+
+/Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/include/generate.h:
 
 _deps/sfml-src/include/SFML/Window/WindowHandle.hpp:
 
@@ -2273,6 +2277,8 @@ _deps/sfml-src/include/SFML/Graphics/Drawable.hpp:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_count.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_dev_t.h:
+
+/Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/include/bar.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_execution_policy.h:
 

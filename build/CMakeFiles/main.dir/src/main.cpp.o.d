@@ -1,5 +1,6 @@
 CMakeFiles/main.dir/src/main.cpp.o: \
   /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/src/main.cpp \
+  /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/include/bar.h \
   /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/include/SFML/Graphics.hpp \
   /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/include/SFML/Window.hpp \
   /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/include/SFML/System.hpp \
@@ -951,4 +952,5 @@ CMakeFiles/main.dir/src/main.cpp.o: \
   /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/include/SFML/Graphics/Glsl.inl \
   /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
   /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
-  /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp
+  /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
+  /Users/tristanmeyers/Desktop/Projects/cpp/sorting-visual/include/generate.h
